@@ -1,6 +1,6 @@
 {
   "name": "경기노회 성경고사 학습 가이드",
-  "description": "대한예수교장로회 경기노회 주일학교연합회 어린이 성경고사 예상문제 및 모의평가 대비 학습 가이드 서비스 (저학년, 중학년, 고학년 체계적 구성)",
+  "description": "대한예수교장로회 경기노회 주일학교연합회 어린이 성경고사 공식 50문항 예상지면시험지 및 정답해설서 자동 출제기",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
